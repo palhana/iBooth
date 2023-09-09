@@ -1,2 +1,3 @@
 # iBooth
-learning machine learning thru Python
+learning python, nltk, chatgpt, gpt-4, django
+

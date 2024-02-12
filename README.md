@@ -1,3 +1,3 @@
 # iBooth
-learning python, nltk, chatgpt, gpt-4, django
+learning python, nltk, machine learning, chatgpt, gpt-4, django
 
